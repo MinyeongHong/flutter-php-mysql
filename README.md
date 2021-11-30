@@ -1,4 +1,4 @@
-# thirdflutter
+# flutter-php-mysql
 
 A new Flutter project.
 
